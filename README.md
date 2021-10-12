@@ -26,16 +26,16 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 #03_ Gravando a imagem do Batocera v32 no Dispositivo Externo
 
 	_ Abra o Balena Etcher -> Flash From a File -> Selecione a imagem do Batocera
-  _ Select Target -> Selecione o Pen Drive(tome bastante cuidado para não selecionar outro dispositivo!)
+        _ Select Target -> Selecione o Pen Drive(tome bastante cuidado para não selecionar outro dispositivo!)
 	_ Flash!
 
 #04_ Dando boot no seu computador com o Batocera v32
 	
-  _ Reinicie o computador, e acesse a BIOS do computador (https://canaltech.com.br/notebook/como-acessar-a-bios-do-meu-computador/)
-  _ Mude a ordem de BOOT do seu computador para o dispositivo com o Batocera v32
-  _ Salve as configurações e reinicie o computador
+        _ Reinicie o computador, e acesse a BIOS do computador (https://canaltech.com.br/notebook/como-acessar-a-bios-do-meu-computador/)
+        _ Mude a ordem de BOOT do seu computador para o dispositivo com o Batocera v32
+        _ Salve as configurações e reinicie o computador
 
-  PS: Caso não inicie o Batocera, desative o "secure boot" na bios do seu computador.
+         PS: Caso não inicie o Batocera, desative o "secure boot" na bios do seu computador.
 
 #05_ Configurações básicas do Batocera v32
 
@@ -52,7 +52,7 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 	_ Na partição SHARE no diretório: roms e onde fica localizado todos os diretórios dos
 	_ consoles que o Batocera tem suporte, cada diretório tem um nome correspondente ao
 	_ seu console, exemplo: snes = Super Nintendo, psx = Playstation, n64 = Nintendo 64, etc...
-  _ na pasta BIOS é onde fica todos os arquivos para o funcionamento dos emuladores, por padrão ele não vem com todos, e caso você tente emular um console que precise de bios, ele vai dar um erro(PS1, PS2, etc)
+        _ na pasta BIOS é onde fica todos os arquivos para o funcionamento dos emuladores, por padrão ele não vem com todos, e caso você tente emular um console que precise de bios, ele vai dar um erro(PS1, PS2, etc)
 
 #07_ Dicas de configurações dos emuladores
 
