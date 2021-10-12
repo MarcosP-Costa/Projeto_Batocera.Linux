@@ -52,7 +52,8 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 	_ Na partição SHARE no diretório: roms e onde fica localizado todos os diretórios dos
 	_ consoles que o Batocera tem suporte, cada diretório tem um nome correspondente ao
 	_ seu console, exemplo: snes = Super Nintendo, psx = Playstation, n64 = Nintendo 64, etc...
-        _ na pasta BIOS é onde fica todos os arquivos para o funcionamento dos emuladores, por padrão ele não vem com todos, e caso você tente emular um console que precise de bios, ele vai dar um erro(PS1, PS2, etc)
+        _ Na pasta BIOS é onde fica todos os arquivos para o funcionamento dos emuladores, por padrão ele não vem com todos
+	_ Caso você tente emular um console que precise de bios, ele vai dar um erro(PS1, PS2, etc)
 
 #07_ Dicas de configurações dos emuladores
 
