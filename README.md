@@ -94,7 +94,7 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 
   #08_ Adicionar BIOS dos Consoles
 
-	_ Baixe todos os arquivos da pasta BIOSaqui no GitHub em um pen drive a parte
+	_ Baixe e extraia todos os arquivos desse <a href="https://drive.google.com/drive/folders/1kVid_kH7dFGuQOzpLznMt4JDzQI6yiFK?usp=sharing"> link</a> em um pen drive a parte
 	_	No BATOCERA, aperte f1
 	_ Copie todos os arquivos para a pasta BIOS e saia(CTRL + Q)
 
