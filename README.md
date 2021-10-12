@@ -57,9 +57,9 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 
 #07_ Dicas de configurações dos emuladores
 
-	_ Nintendo 64: emulador que funciona perfeitamente os jogos: LIBRETRO / PARALLEL N64
+	_ 	Nintendo 64: emulador que funciona perfeitamente os jogos: LIBRETRO / PARALLEL N64
 	_	Acessar Nintendo 64, Opções (Select), Opções Avançadas do Sistema, Emulador: LIBRETRO / PARALLEL N64
-	_ Playstation 2: configuração do recurso de Speedhacks do PCX2-CONFIG
+	_ 	Playstation 2: configuração do recurso de Speedhacks do PCX2-CONFIG
 	_	Acessar o Menu de Jogos, F1 (Arquivos), Aplicativos, pcsx2-config
 	_	Config, Video (GS), Core GS Settings, Speedhacks
 	_		Enable speedhacks: ON
@@ -70,9 +70,9 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 	_		Enable fast CDVD: ON
 	_		mVU Flag Hack: ON
 	_		MTUV (Multi-Threaded microVU1): ON
-	_	System, Exit
-	_ Atualização das informações das ROMS (Screen Scraper): fazer o cadastro no site: https://www.screenscraper.fr/
-	_	Acessar o Menu de Jogos, Menu (Start), Scrape
+	_		System, Exit
+	_		 Atualização das informações das ROMS (Screen Scraper): fazer o cadastro no site: https://www.screenscraper.fr/
+	_		Acessar o Menu de Jogos, Menu (Start), Scrape
 	_		Banco de Dados: Screenscraper
 	_		Fonte da Imagem: Screenshot
 	_		Fonte da Caixa: Caixa 2D
@@ -94,9 +94,11 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 
   #08_ Adicionar BIOS dos Consoles
 
-	_ Baixe e extraia todos os arquivos desse <a href="https://batocera.org/"> Batocera</a> em um pen drive a parte
-	_	No BATOCERA, aperte f1
+	_ Baixe e extraia todos os arquivos do link abaixo em um pen drive a parte
+	_ No BATOCERA, aperte f1
 	_ Copie todos os arquivos para a pasta BIOS e saia(CTRL + Q)
+	
+   <a href="https://drive.google.com/drive/folders/1kVid_kH7dFGuQOzpLznMt4JDzQI6yiFK?usp=sharing"> Link com as BIOS </a>
 
   
 
