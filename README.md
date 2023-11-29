@@ -13,39 +13,39 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 #Versão: Batocera 38<br>
 #Testado no Notebook Ideapad S145 i7-8565U 8gb RAM GeForce MX110 2GB
 
-#Instalação do Batocera v32 em HD Externo ou Pen-Drive
+#Instalação do Batocera v38 em HD Externo ou Pen-Drive
 
 #01_ Software para a gravação das Imagem do Batocera no Dispositivo<br>
 
 	- Balena Etcher: https://www.balena.io/etcher/
 
-#02_ Download da Imagem do Batocera v32
+#02_ Download da Imagem do Batocera v38
 		
 	- Site oficial do Batocera: https://batocera.org/download
 
-#03_ Gravando a imagem do Batocera v32 no Dispositivo Externo
+#03_ Gravando a imagem do Batocera v38 no Dispositivo Externo
 
 	- Abra o Balena Etcher -> Flash From a File -> Selecione a imagem do Batocera
         - Select Target -> Selecione o Pen Drive(tome bastante cuidado para não selecionar outro dispositivo!)
 	- Flash!
 
-#04_ Dando boot no seu computador com o Batocera v32
+#04_ Dando boot no seu computador com o Batocera v38
 	
         - Reinicie o computador, e acesse a BIOS do computador (https://canaltech.com.br/notebook/como-acessar-a-bios-do-meu-computador/)
-        - Mude a ordem de BOOT do seu computador para o dispositivo com o Batocera v32
+        - Mude a ordem de BOOT do seu computador para o dispositivo com o Batocera v38
         - Salve as configurações e reinicie o computador
 
          PS: Caso não inicie o Batocera, desative o "secure boot" na bios do seu computador.
 
-#05_ Configurações básicas do Batocera v32
+#05_ Configurações básicas do Batocera v38
 
 	- OBS5: por padrão o Batocera  vem configurado em Inglês
 	- Alterar a linguagem: Start (Menu), System Settings, Language: Portugues Brasileiro
-	- OBS6: na versão v32 em diante do Batocera não é necessário reinicializar o sistema
+	- OBS6: na versão v38 em diante do Batocera não é necessário reinicializar o sistema
 	- Atualizando a lista de jogos: Start (Menu), Opções de Jogos, Atualizar Lista de Jogos, Sim
 	- Para sair de um jogo pressiona: Start + Select ou Esc
 
-#06_ Partições do Batocera v32
+#06_ Partições do Batocera v38
 
 	- Partição BATOCERA: sistema de boot e arquivos de inicialização/binários do Batocera
 	- Partição SHARE: localização das ROMS (jogos), BIOS (PS2/PS3, etc...), Músicas, Temas, etc...
@@ -101,4 +101,5 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
    <a href="https://drive.google.com/drive/folders/1kVid_kH7dFGuQOzpLznMt4JDzQI6yiFK?usp=sharing"> Link com as BIOS </a>
 
   
+
 
