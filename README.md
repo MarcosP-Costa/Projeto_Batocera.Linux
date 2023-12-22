@@ -9,7 +9,7 @@ Com exigencias minimas, é ótimo para transformar computadores antigos e parado
 #Facebook: https://www.facebook.com/marcos.nokbuk/<br>
 #Instagram: https://www.instagram.com/marcos.nok/<br>
 #Data de criação: 12/10/2021<br>
-#Data de atualização: 29/11/2021<br>
+#Data de atualização: 29/11/2023<br>
 #Versão: Batocera 38<br>
 #Testado no Notebook Ideapad S145 i7-8565U 8gb RAM GeForce MX110 2GB
 
