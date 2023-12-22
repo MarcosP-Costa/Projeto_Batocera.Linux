@@ -1,0 +1,31 @@
+# Arquivos Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ambientes virtuais (por exemplo, criados por virtualenv ou pipenv)
+venv/
+env/
+Projeto_Batocera.Linux/
+Scripts/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos gerados por IDEs
+.idea/
+.vscode/
+
+# Dependendo do seu ambiente de desenvolvimento, você também pode querer ignorar:
+# .pyc, .pyo, .pyd, __pycache__
+# .vscode/
+# .idea/
+# .venv/, venv/, env/
+# __pycache__/
+# .DS_Store (se você estiver usando macOS)
+# .vscode/ (se você estiver usando o Visual Studio Code)
+# .idea/ (se você estiver usando o IntelliJ IDEA)
+
+# Outros arquivos específicos para seu projeto ou ferramentas adicionais podem ser adicionados conforme necessário.
